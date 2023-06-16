@@ -12,10 +12,10 @@ A simple script for randomly generating a yes/no answer for any question.
 go install github.com/dspacejs/yes-no
 ```
 
-3. Run the script with a link to a song:
+3. Run the script:
 
 ```sh
 yes-no
 ```
 
-It will print a tarot card.
+It will print either 'Yes' or 'No'.
